@@ -9,6 +9,12 @@ This project focuses on:
 *   **Text Rendering:**  Demonstrates how to load font data using FreeType, generate texture atlases, and render characters on the screen in OpenGL.
 *   **Font Management:** Provides the tools to manage different font files and settings within your OpenGL application.
 
+## Screenshot
+
+Here's a screenshot showing the text rendering in action:
+
+![Text Rendering Screenshot](Screenshot 2025-01-31 163515.png)
+
 ## Folder Structure
 
 The repository is organized as follows:
