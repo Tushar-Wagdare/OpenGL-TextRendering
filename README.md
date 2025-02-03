@@ -13,7 +13,7 @@ This project focuses on:
 
 Here's a screenshot showing the text rendering in action:
 
-![Text Rendering Screenshot](Screenshot 2025-01-31 163515.png)
+![Text Rendering Screenshot](Text.png)
 
 ## Folder Structure
 
@@ -41,49 +41,6 @@ The repository is organized as follows:
 *  `mesh.h`: Header file for mesh class
 *   `model.h`: Header file for the model class
 *  `targetver.h`: Header file for the target windows version.
-
-## How to Use
-
-1.  **Clone:** Clone this repository to your local machine.
-2.  **Dependencies:** Ensure you have OpenGL and a C++ compiler setup. You will also need FreeType library installed. You may also need libraries like GLFW (for window creation) and GLEW (for OpenGL extensions).
-3.  **Build:** Use the Visual Studio project (OGL.sln) included, or any similar build environment to compile your project
-4. ** Run:** Execute the compiled project.
-5.  **Explore and modify:** Feel free to modify the code, experiment with different font settings, or integrate text rendering into your own OpenGL project.
-
-## Compilation Instructions (General)
-
-You can compile the project in your respective environments. The project is set up for Windows. The following are general compiling instructions for this project.
-
-*   **Windows:**
-     * Use the included solution file `OGL.sln` with Visual Studio.
-     * Alternatively, use other tools like CMake to create build files.
-*   **Other Platforms:**
-     *   You'll need to install FreeType library and configure your build system accordingly (e.g., use CMake).
-     *   You may also need to link GLFW, GLEW or other equivalent libraries for your platform.
-
-## Contribution Guidelines
-
-Contributions are welcome! If you have improvements, bug fixes, or want to add a new feature, please follow these steps:
-
-1.  **Fork:** Fork the repository to your GitHub account.
-2.  **Create Branch:** Create a new branch for your feature or fix (e.g., `git checkout -b my-new-feature`).
-3.  **Implement:** Make your changes, ensuring the code is well-documented.
-4.  **Test:** Include necessary tests where applicable.
-5.  **Commit:** Commit your changes with a descriptive commit message (e.g., `git commit -m "Add: Improved font loading performance"`).
-6.  **Push:** Push your changes to your branch (`git push origin my-new-feature`).
-7.  **Pull Request:** Create a pull request to merge your changes into the main branch.
-
-## Code Style
-
-Please make sure that your code is well-formatted, well-commented, and follows a consistent coding style, preferably adhering to common C++ coding guidelines.
-
-## License
-
-This project is licensed under the [Choose your license, e.g., MIT License]. See the `LICENSE` file for more details.
-
-## Contact
-
-If you have any questions or suggestions, feel free to open an issue or contact me directly.
 
 ## TODO (Future Improvements)
 
