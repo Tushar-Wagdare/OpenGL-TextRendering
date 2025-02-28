@@ -48,3 +48,4 @@ The repository is organized as follows:
 *   Include multi-line text rendering and word wrapping.
 *   Implement more advanced text effects.
 *   Add a more flexible resource management.
+*   3D text rendering.
